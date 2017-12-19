@@ -15,8 +15,8 @@ We will use some examples in future projects for introducing in cluster analysis
 
 ## Learn more
 
-[-Wiki](https://en.wikipedia.org/wiki/Cluster_analysis)
-[-What is cluster analysis?](https://en.wikipedia.org/wiki/Cluster_analysis)
+-Source 1: [Wiki](https://en.wikipedia.org/wiki/Cluster_analysis)
+-Source 2: [What is cluster analysis?](https://en.wikipedia.org/wiki/Cluster_analysis)
 
 ## Installation
 
