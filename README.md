@@ -16,7 +16,7 @@ We will use some examples in future projects for introducing in cluster analysis
 ## Code Example
 
 It needs to create txt file of unity cluster data 
-```
+```python
 unity=concatenate([clt1,clt2,clt3],axis=0)
 indeces=random.permutation(unity.shape[0])
 unity=unity.take(indeces,0)
