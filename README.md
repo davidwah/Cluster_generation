@@ -6,14 +6,14 @@ In a nutshell, cluster analysis is analys of similar data objects. Here's exampl
 ![cluster_test.py](images/cluster_test.png)
 ![cluster_circle.py](images/cluster_circle.png)
 ![cluster_test_3d.py](images/cluster_test_3d.png)
-![cluster_sphere_3d.py](cluster_sphere_3d.png)
+![cluster_sphere_3d.py](images/cluster_sphere_3d.png)
 
 We will use some examples in future projects for introducing in cluster analysis.
 
 ## Learn more
 
--[Wiki](https://en.wikipedia.org/wiki/Cluster_analysis)
--[What is cluster analysis?](https://en.wikipedia.org/wiki/Cluster_analysis)
+1[Wiki](https://en.wikipedia.org/wiki/Cluster_analysis)
+2[What is cluster analysis?](https://en.wikipedia.org/wiki/Cluster_analysis)
 
 ## Installation
 
