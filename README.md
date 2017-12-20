@@ -24,6 +24,14 @@ unity=unity.take(indeces,0)
 savetxt('xxx.txt',unity)
 ```
 
+## Knowledge
+
+Objects have properties. We are going to consider measurable properties. We assume that all properties
+has the same type (for example length, width, height). 
+Now we need to group objects based on properties. Measure the differences helps. 
+It's **distance**. The properties of the object is now a ***vector***.
+
+
 ## Learn more
 
 Source 1: [Wiki](https://en.wikipedia.org/wiki/Cluster_analysis)
